@@ -1,0 +1,3 @@
+[submodule "utils/eeprom"]
+	path = utils/eeprom
+	url = git@github.com:Dirk1980ac/hats.git
