@@ -1,10 +1,13 @@
 The Ulysses Board - a Raspberry Pi interface expansion board
 Copyright (C)2022 by Dirk Gottschalk
 
-    SPDX-License-Identifier:  GPL-2.0-only
+    SPDX-License-Identifier: GPL-2.0-only
 
 Being under the terms of the GNU General Public License version 2 only,
 according with:
 
-    GPL-2.0
+    LicenseInfoInFile: LICENSES/GPL-2.0
 
+for more details.
+
+All contributions to the Ulysses Board are subject to this COPYING file.
