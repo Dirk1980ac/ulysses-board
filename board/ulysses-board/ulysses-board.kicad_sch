@@ -861,7 +861,7 @@
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
     (fill (color 0 0 0 0.0000))
     (uuid 83983ed4-b900-42a7-919a-1c8aebdb2656)
-    (property "Sheet name" "Alert & I2C IO" (id 0) (at 142.24 85.6484 0)
+    (property "Sheet name" "Status & I2C module" (id 0) (at 142.24 85.6484 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
     (property "Sheet file" "untitled.kicad_sch" (id 1) (at 142.24 117.4246 0)
