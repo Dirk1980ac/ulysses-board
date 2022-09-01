@@ -6,7 +6,7 @@
 
   (title_block
     (title "The Ulysses Board")
-    (date "2022-08-29")
+    (date "2022-09-01")
     (rev "1.2")
     (company "Dirk Gottschalk")
     (comment 1 "Power module")
@@ -1241,7 +1241,7 @@
   (symbol (lib_id "power:GNDD") (at 250.19 128.27 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 1a0b7a85-269e-4303-bb59-5301070b1fda)
-    (property "Reference" "#PWR04" (id 0) (at 250.19 134.62 0)
+    (property "Reference" "#PWR03" (id 0) (at 250.19 134.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GNDD" (id 1) (at 250.19 131.445 0)
