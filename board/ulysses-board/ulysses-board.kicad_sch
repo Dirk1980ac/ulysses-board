@@ -1109,8 +1109,8 @@
     (path "/83983ed4-b900-42a7-919a-1c8aebdb2656/9afa05f1-2bf9-4a59-8ae1-9a0a51364250"
       (reference "D12") (unit 1) (value "3V3") (footprint "")
     )
-    (path "/fce914f2-7344-4cad-ad93-7433caf9ea08/9ed9945d-0dbc-44a9-8791-f1fe41f38a66"
-      (reference "F1") (unit 1) (value "10A") (footprint "")
+    (path "/fce914f2-7344-4cad-ad93-7433caf9ea08/02f8df18-2ce8-47ec-8386-f06c2b6f48b9"
+      (reference "F?") (unit 1) (value "10A") (footprint "")
     )
     (path "/00000000-0000-0000-0000-000059ad464a"
       (reference "J1") (unit 1) (value "GPIO") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x20_P2.54mm_Vertical")
@@ -1149,7 +1149,7 @@
       (reference "JP2") (unit 1) (value "TERM") (footprint "")
     )
     (path "/fce914f2-7344-4cad-ad93-7433caf9ea08/ce63404c-3d27-457f-8ba3-61497762c69e"
-      (reference "Q1") (unit 1) (value "IRF9540N / BUZ11") (footprint "Package_TO_SOT_THT:TO-220-3_Vertical")
+      (reference "Q1") (unit 1) (value "IRF9540N") (footprint "Package_TO_SOT_THT:TO-220-3_Vertical")
     )
     (path "/663e2fe5-f03f-4da8-bfc5-7b819967ac59/1d71f8ab-012c-4eac-8041-f285561e16b1"
       (reference "Q2") (unit 1) (value "BC548") (footprint "Package_TO_SOT_THT:TO-92_Inline")
@@ -1189,6 +1189,15 @@
     )
     (path "/83983ed4-b900-42a7-919a-1c8aebdb2656/3ea7bd62-d1f5-43a8-9251-d6c198ad692f"
       (reference "Q14") (unit 1) (value "BC548") (footprint "Package_TO_SOT_THT:TO-92_Inline")
+    )
+    (path "/fce914f2-7344-4cad-ad93-7433caf9ea08/1e82d050-7a5d-47fa-84e5-aa6b32eb223a"
+      (reference "Q?") (unit 1) (value "2N3906") (footprint "Package_TO_SOT_THT:TO-92_Inline")
+    )
+    (path "/fce914f2-7344-4cad-ad93-7433caf9ea08/748a22d7-fb0c-4e94-9050-f21250557c30"
+      (reference "Q?") (unit 1) (value "2N3906") (footprint "Package_TO_SOT_THT:TO-92_Inline")
+    )
+    (path "/fce914f2-7344-4cad-ad93-7433caf9ea08/e78f607c-fe3d-4b65-a96c-ee6d8b197c8f"
+      (reference "Q?") (unit 1) (value "IRF9540N") (footprint "Package_TO_SOT_THT:TO-220-3_Vertical")
     )
     (path "/fce914f2-7344-4cad-ad93-7433caf9ea08/f9edb6a1-cfb1-410e-acd7-bff758ee5c92"
       (reference "R1") (unit 1) (value "240") (footprint "")
@@ -1336,6 +1345,12 @@
     )
     (path "/240d4dda-21f0-4184-955e-e261559b71e3/0d1cbe88-5669-466e-84dc-b1fdccb716dc"
       (reference "R49") (unit 1) (value "120") (footprint "")
+    )
+    (path "/fce914f2-7344-4cad-ad93-7433caf9ea08/cdc3369f-ed1f-4112-841d-134270a8f044"
+      (reference "R?") (unit 1) (value "10k (1%)") (footprint "")
+    )
+    (path "/fce914f2-7344-4cad-ad93-7433caf9ea08/e44e8aaa-6fda-48bb-b8a2-751a86492fe9"
+      (reference "R?") (unit 1) (value "47k (1%)") (footprint "")
     )
     (path "/fce914f2-7344-4cad-ad93-7433caf9ea08/60571bab-d427-465e-9a00-41589dec2820"
       (reference "SW1") (unit 1) (value "On / Off") (footprint "Button_Switch_SMD:SW_MEC_5GSH9")
