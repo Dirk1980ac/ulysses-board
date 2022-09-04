@@ -975,7 +975,7 @@
       (reference "#PWR028") (unit 1) (value "GNDD") (footprint "")
     )
     (path "/83983ed4-b900-42a7-919a-1c8aebdb2656/508e80a1-d9db-4a31-b4f5-58154e40330a"
-      (reference "BT1") (unit 1) (value "Battery_Cell") (footprint "")
+      (reference "BT1") (unit 1) (value "CR2032") (footprint "")
     )
     (path "/fce914f2-7344-4cad-ad93-7433caf9ea08/f8696db3-43be-455a-a892-02bde7b1ef28"
       (reference "C1") (unit 1) (value "10µF") (footprint "")
@@ -1113,7 +1113,7 @@
       (reference "J3") (unit 1) (value "RS-232") (footprint "")
     )
     (path "/663e2fe5-f03f-4da8-bfc5-7b819967ac59/90dae1f5-ab9c-43cd-a9cd-cb060cef8709"
-      (reference "J4") (unit 1) (value "Conn_01x05_Male") (footprint "")
+      (reference "J4") (unit 1) (value "LCD") (footprint "")
     )
     (path "/83983ed4-b900-42a7-919a-1c8aebdb2656/3f46b3db-7805-42a1-b0d3-609fd7970f66"
       (reference "J5") (unit 1) (value "I2C_3V3") (footprint "")
@@ -1132,12 +1132,6 @@
     )
     (path "/240d4dda-21f0-4184-955e-e261559b71e3/72ee6740-7b34-43d5-9b35-c5820c88e5d1"
       (reference "J10") (unit 1) (value "CAN_2") (footprint "")
-    )
-    (path "/240d4dda-21f0-4184-955e-e261559b71e3/950980f6-2f10-43be-af62-63aa2a88e868"
-      (reference "JP1") (unit 1) (value "TERM") (footprint "")
-    )
-    (path "/240d4dda-21f0-4184-955e-e261559b71e3/08837633-069e-41fd-b8b1-af481410f94b"
-      (reference "JP2") (unit 1) (value "TERM") (footprint "")
     )
     (path "/fce914f2-7344-4cad-ad93-7433caf9ea08/ce63404c-3d27-457f-8ba3-61497762c69e"
       (reference "Q1") (unit 1) (value "IRF9540N") (footprint "Package_TO_SOT_THT:TO-220-3_Vertical")
@@ -1323,10 +1317,10 @@
       (reference "R44") (unit 1) (value "1k2") (footprint "")
     )
     (path "/240d4dda-21f0-4184-955e-e261559b71e3/70b957b8-e1d3-4852-90bf-ed9977635115"
-      (reference "R45") (unit 1) (value "R") (footprint "")
+      (reference "R45") (unit 1) (value "120") (footprint "")
     )
     (path "/240d4dda-21f0-4184-955e-e261559b71e3/305d559c-e8a8-4591-b9bf-bb7ed90331b9"
-      (reference "R46") (unit 1) (value "R") (footprint "")
+      (reference "R46") (unit 1) (value "120") (footprint "")
     )
     (path "/fce914f2-7344-4cad-ad93-7433caf9ea08/e6cb006c-e521-4eb5-9ef3-8552de563582"
       (reference "SW1") (unit 1) (value "On/Off") (footprint "")
@@ -1373,6 +1367,12 @@
     (path "/83983ed4-b900-42a7-919a-1c8aebdb2656/368bdf1b-e055-4858-8c98-a42d821592fc"
       (reference "SW15") (unit 1) (value "SW_DIP_x03") (footprint "")
     )
+    (path "/240d4dda-21f0-4184-955e-e261559b71e3/1896eb0b-36c5-4973-9ba0-f9b40cb9267d"
+      (reference "SW?") (unit 1) (value "Term") (footprint "")
+    )
+    (path "/240d4dda-21f0-4184-955e-e261559b71e3/fe9808e3-b5b0-4160-88e8-7417cd5cd416"
+      (reference "SW?") (unit 1) (value "Term") (footprint "")
+    )
     (path "/fce914f2-7344-4cad-ad93-7433caf9ea08/cb76ae5c-b529-426e-8b76-8ef63224a3ec"
       (reference "U1") (unit 1) (value "LM350") (footprint "Package_TO_SOT_THT:TO-220-3_Vertical")
     )
@@ -1383,7 +1383,7 @@
       (reference "U3") (unit 1) (value "LM350") (footprint "Package_TO_SOT_THT:TO-220-3_Vertical")
     )
     (path "/663e2fe5-f03f-4da8-bfc5-7b819967ac59/a6ed745e-4957-4745-90c2-dfd3685c93f0"
-      (reference "U4") (unit 1) (value "CAT24C128") (footprint "Package_DIP:DIP-8_W7.62mm_LongPads")
+      (reference "U4") (unit 1) (value "AT24C1024B") (footprint "Package_DIP:DIP-8_W7.62mm_LongPads")
     )
     (path "/663e2fe5-f03f-4da8-bfc5-7b819967ac59/5cedc6a1-e433-4157-8237-f2136dfc907a"
       (reference "U5") (unit 1) (value "MAX3232") (footprint "")
