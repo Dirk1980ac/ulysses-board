@@ -15,7 +15,7 @@ This is a Raspberry Pi I/O expansion Board.
 * "Tamper detection" circuit (Logs if someone opens the device while it is in workiung state)
 * RS-232 serial interface
 * 2 CAN busses (CAN_1 and CAN_2)
-* 4 ADC inputs (with Voltage dividers
+* 4 ADC inputs (with Voltage dividers)
 * 16 digital IOs (programmable w/pull-ups)
 * I²C EEPROM programming socke
 * SPI EEPROM programming socke
@@ -23,7 +23,9 @@ This is a Raspberry Pi I/O expansion Board.
 
 # Information
 This is a work in progress. ans changes are to be expected. A PCB layout and additional software will be added as time goes by.<br><br>
-<strong>This is NOT a HAT form factor board and never will be. This Board is intented to be an external developer I/O board.</strong>
+This Board is intented to be an external developer I/O board.<br><br>
+<strong>Attention: </strong> This is NOT a HAT form factor board and never will be.<br>
+
 
 # Copyright
 Copyright ©2022 by Dirk Gottschalk
