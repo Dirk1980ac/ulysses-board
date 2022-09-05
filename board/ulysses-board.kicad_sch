@@ -896,9 +896,6 @@
     (path "/5db1d97a-4ee1-4725-965f-290f206533a4"
       (reference "#PWR02") (unit 1) (value "GNDD") (footprint "")
     )
-    (path "/fce914f2-7344-4cad-ad93-7433caf9ea08/1a0b7a85-269e-4303-bb59-5301070b1fda"
-      (reference "#PWR03") (unit 1) (value "GNDD") (footprint "")
-    )
     (path "/663e2fe5-f03f-4da8-bfc5-7b819967ac59/4d422257-6bbf-4b74-b1c3-725017bef7a5"
       (reference "#PWR04") (unit 1) (value "GNDD") (footprint "")
     )
@@ -974,14 +971,14 @@
     (path "/240d4dda-21f0-4184-955e-e261559b71e3/3c5c58f3-0e1a-4398-be11-4a97bf4a7628"
       (reference "#PWR028") (unit 1) (value "GNDD") (footprint "")
     )
+    (path "/fce914f2-7344-4cad-ad93-7433caf9ea08/2296fe2b-7286-4bd9-8b8e-91d53d15b0fe"
+      (reference "#PWR?") (unit 1) (value "GNDD") (footprint "")
+    )
     (path "/83983ed4-b900-42a7-919a-1c8aebdb2656/e9f32819-9d49-4254-b171-c844c5d86600"
       (reference "#PWR?") (unit 1) (value "GNDD") (footprint "")
     )
     (path "/83983ed4-b900-42a7-919a-1c8aebdb2656/508e80a1-d9db-4a31-b4f5-58154e40330a"
       (reference "BT1") (unit 1) (value "CR2032") (footprint "")
-    )
-    (path "/fce914f2-7344-4cad-ad93-7433caf9ea08/f8696db3-43be-455a-a892-02bde7b1ef28"
-      (reference "C1") (unit 1) (value "10µF") (footprint "")
     )
     (path "/fce914f2-7344-4cad-ad93-7433caf9ea08/e690d9c2-b375-4ef5-a156-5a4d468fec0f"
       (reference "C2") (unit 1) (value "10µF") (footprint "")
@@ -993,10 +990,10 @@
       (reference "C4") (unit 1) (value "10µF") (footprint "")
     )
     (path "/fce914f2-7344-4cad-ad93-7433caf9ea08/c38c9230-60dd-4b2a-969d-dd616e7141e6"
-      (reference "C5") (unit 1) (value "100nF") (footprint "")
+      (reference "C5") (unit 1) (value "100µF") (footprint "")
     )
     (path "/fce914f2-7344-4cad-ad93-7433caf9ea08/64211e0d-306f-4266-bd22-8698684fbedb"
-      (reference "C6") (unit 1) (value "100nF") (footprint "")
+      (reference "C6") (unit 1) (value "100µF") (footprint "")
     )
     (path "/fce914f2-7344-4cad-ad93-7433caf9ea08/d96f8b22-6040-4f46-aaf0-dcc973786a7b"
       (reference "C7") (unit 1) (value "10µF") (footprint "")
@@ -1005,7 +1002,7 @@
       (reference "C8") (unit 1) (value "10µF") (footprint "")
     )
     (path "/fce914f2-7344-4cad-ad93-7433caf9ea08/500efec8-023c-4569-9266-cd1edba897f4"
-      (reference "C9") (unit 1) (value "100nF") (footprint "")
+      (reference "C9") (unit 1) (value "100µF") (footprint "")
     )
     (path "/663e2fe5-f03f-4da8-bfc5-7b819967ac59/d19dcb96-4749-44fa-97fa-c4971a37bc4a"
       (reference "C10") (unit 1) (value "100nF") (footprint "")
@@ -1076,6 +1073,9 @@
     (path "/240d4dda-21f0-4184-955e-e261559b71e3/6e69e3ce-fef5-4bec-b155-e1cebaada1f1"
       (reference "C32") (unit 1) (value "22pF") (footprint "")
     )
+    (path "/fce914f2-7344-4cad-ad93-7433caf9ea08/ba8c74ed-0752-47c2-b0ff-b4880bae8a1b"
+      (reference "C?") (unit 1) (value "10µF") (footprint "")
+    )
     (path "/fce914f2-7344-4cad-ad93-7433caf9ea08/f8d6f345-34c3-4978-95bb-04de70ffc8d1"
       (reference "D1") (unit 1) (value "LED") (footprint "")
     )
@@ -1102,6 +1102,33 @@
     )
     (path "/83983ed4-b900-42a7-919a-1c8aebdb2656/b2241522-48eb-4c96-9e8a-32515b330c4a"
       (reference "D9") (unit 1) (value "LED") (footprint "")
+    )
+    (path "/fce914f2-7344-4cad-ad93-7433caf9ea08/29f793af-a7ab-4230-89a9-63cb072ae0bf"
+      (reference "D?") (unit 1) (value "1N4007") (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal")
+    )
+    (path "/fce914f2-7344-4cad-ad93-7433caf9ea08/6b0d41d9-affb-4f26-af9f-fbfca333f8db"
+      (reference "D?") (unit 1) (value "1N4007") (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal")
+    )
+    (path "/fce914f2-7344-4cad-ad93-7433caf9ea08/841c1c99-f134-4a24-92e1-9174fe0a96b3"
+      (reference "D?") (unit 1) (value "1N4007") (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal")
+    )
+    (path "/fce914f2-7344-4cad-ad93-7433caf9ea08/85db72be-6293-4969-9f78-f77b67401c2c"
+      (reference "D?") (unit 1) (value "1N4007") (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal")
+    )
+    (path "/fce914f2-7344-4cad-ad93-7433caf9ea08/958a0acf-5564-4435-b6b4-06a6d946b5f6"
+      (reference "D?") (unit 1) (value "1N4007") (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal")
+    )
+    (path "/fce914f2-7344-4cad-ad93-7433caf9ea08/b05c222b-4118-434f-976c-1a11140134c2"
+      (reference "D?") (unit 1) (value "1N4007") (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal")
+    )
+    (path "/fce914f2-7344-4cad-ad93-7433caf9ea08/e936d6b9-0fcf-4f83-934b-5c5c6e6b1132"
+      (reference "D?") (unit 1) (value "1N4007") (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal")
+    )
+    (path "/fce914f2-7344-4cad-ad93-7433caf9ea08/f7b0cd61-032f-48ae-b627-0435990ca4e5"
+      (reference "D?") (unit 1) (value "1N4007") (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal")
+    )
+    (path "/fce914f2-7344-4cad-ad93-7433caf9ea08/f7db743b-d116-4dbf-8ab6-9969a488468f"
+      (reference "D?") (unit 1) (value "1N4007") (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal")
     )
     (path "/fce914f2-7344-4cad-ad93-7433caf9ea08/02f8df18-2ce8-47ec-8386-f06c2b6f48b9"
       (reference "F1") (unit 1) (value "10A") (footprint "")
