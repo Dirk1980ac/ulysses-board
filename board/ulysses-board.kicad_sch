@@ -864,7 +864,7 @@
     (property "Sheet name" "Status & I2C module" (id 0) (at 142.24 85.2834 0)
       (effects (font (size 2 2)) (justify left bottom))
     )
-    (property "Sheet file" "untitled.kicad_sch" (id 1) (at 142.24 117.4246 0)
+    (property "Sheet file" "extended_io.kicad_sch" (id 1) (at 142.24 117.4246 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
   )
