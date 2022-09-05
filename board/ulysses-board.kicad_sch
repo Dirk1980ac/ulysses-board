@@ -995,9 +995,6 @@
     (path "/fce914f2-7344-4cad-ad93-7433caf9ea08/64211e0d-306f-4266-bd22-8698684fbedb"
       (reference "C6") (unit 1) (value "100µF") (footprint "")
     )
-    (path "/fce914f2-7344-4cad-ad93-7433caf9ea08/d96f8b22-6040-4f46-aaf0-dcc973786a7b"
-      (reference "C7") (unit 1) (value "10µF") (footprint "")
-    )
     (path "/fce914f2-7344-4cad-ad93-7433caf9ea08/edb3daea-3422-41fe-a2f6-882254931d7c"
       (reference "C8") (unit 1) (value "10µF") (footprint "")
     )
@@ -1072,6 +1069,9 @@
     )
     (path "/240d4dda-21f0-4184-955e-e261559b71e3/6e69e3ce-fef5-4bec-b155-e1cebaada1f1"
       (reference "C32") (unit 1) (value "22pF") (footprint "")
+    )
+    (path "/fce914f2-7344-4cad-ad93-7433caf9ea08/96aabd29-8c64-4e0d-9613-fa79795456ce"
+      (reference "C?") (unit 1) (value "10µF") (footprint "")
     )
     (path "/fce914f2-7344-4cad-ad93-7433caf9ea08/ba8c74ed-0752-47c2-b0ff-b4880bae8a1b"
       (reference "C?") (unit 1) (value "10µF") (footprint "")
@@ -1163,9 +1163,6 @@
     (path "/240d4dda-21f0-4184-955e-e261559b71e3/72ee6740-7b34-43d5-9b35-c5820c88e5d1"
       (reference "J10") (unit 1) (value "CAN_2") (footprint "")
     )
-    (path "/fce914f2-7344-4cad-ad93-7433caf9ea08/ce63404c-3d27-457f-8ba3-61497762c69e"
-      (reference "Q1") (unit 1) (value "IRF9540N") (footprint "Package_TO_SOT_THT:TO-220-3_Vertical")
-    )
     (path "/fce914f2-7344-4cad-ad93-7433caf9ea08/1e82d050-7a5d-47fa-84e5-aa6b32eb223a"
       (reference "Q2") (unit 1) (value "2N3906") (footprint "Package_TO_SOT_THT:TO-92_Inline")
     )
@@ -1216,6 +1213,9 @@
     )
     (path "/83983ed4-b900-42a7-919a-1c8aebdb2656/5b98ca39-c13a-4a78-8c1b-5b45872ac979"
       (reference "Q?") (unit 1) (value "BC548") (footprint "Package_TO_SOT_THT:TO-92_Inline")
+    )
+    (path "/fce914f2-7344-4cad-ad93-7433caf9ea08/db6dc69e-5830-4768-bfb0-cd0cc07b6c2e"
+      (reference "Q?") (unit 1) (value "IRF9540N") (footprint "Package_TO_SOT_THT:TO-220-3_Vertical")
     )
     (path "/fce914f2-7344-4cad-ad93-7433caf9ea08/8468dfdd-7ea1-42cb-b546-7fb437af3b0e"
       (reference "R1") (unit 1) (value "240") (footprint "")
