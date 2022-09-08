@@ -1,8 +1,9 @@
 # The Ulysses Board
 This is a Raspberry Pi I/O expansion Board.
 
-# Board features
+# Features
 
+* All I/Os presented to the outside world are shielded
 * Power regulation (Takes input from 9V to 30V)
 * Backpower
 * Firmware EEPROM (ID EEPROM)
@@ -19,7 +20,12 @@ This is a Raspberry Pi I/O expansion Board.
 * 16 digital IOs (programmable w/pull-ups)
 * I²C EEPROM programming socke
 * SPI EEPROM programming socke
-* I²C breakout (3,3V)
+* I²C breakout (3,3V / 5V selectable)
+
+# Limitations
+
+* No SPI breakout as wa are already using 4 Chips on SPI
+* DIO 0/1 GPIOs  are 3,3V only (at least for now)
 
 # Information
 This is a work in progress. ans changes are to be expected. A PCB layout and additional software will be added as time goes by.<br><br>

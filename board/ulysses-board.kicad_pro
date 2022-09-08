@@ -462,6 +462,10 @@
     [
       "240d4dda-21f0-4184-955e-e261559b71e3",
       "Extended IO"
+    ],
+    [
+      "c73c974c-e023-4a73-89b8-29dbbfbf77ca",
+      "Tamper detection"
     ]
   ],
   "text_variables": {}
