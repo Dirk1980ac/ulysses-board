@@ -24,7 +24,7 @@ This is a Raspberry Pi I/O expansion Board.
 
 # Limitations
 
-* No SPI breakout as wa are already using 4 Chips on SPI
+* No SPI breakout as we are already using 4 chips on the SPI bus.
 * DIO 0/1 GPIOs  are 3,3V only (at least for now)
 
 # Information
