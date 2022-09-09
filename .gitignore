@@ -1,4 +1,5 @@
 # Exclude local KiCAD backups
 board/ulysses-board-backups
-*.bak
+*/*.bak
+*/*-bak
 
