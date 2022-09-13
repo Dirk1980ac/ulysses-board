@@ -2,4 +2,6 @@
 board/ulysses-board-backups
 */*.bak
 */*-bak
+*/_autosave*
+
 

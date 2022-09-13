@@ -399,7 +399,7 @@
       "step": "",
       "vrml": ""
     },
-    "page_layout_descr_file": ""
+    "page_layout_descr_file": "${KICAD_USER_TEMPLATE_DIR}/schematics1.kicad_wks"
   },
   "schematic": {
     "annotate_start_num": 0,
@@ -464,8 +464,8 @@
       "Extended IO"
     ],
     [
-      "c73c974c-e023-4a73-89b8-29dbbfbf77ca",
-      "Tamper detection"
+      "726b1d9b-e7d4-4e7d-81b8-a424621da2fa",
+      "Control Panel"
     ]
   ],
   "text_variables": {}
